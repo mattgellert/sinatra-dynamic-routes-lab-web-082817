@@ -41,7 +41,6 @@ class App < Sinatra::Base
       else
         "Invalid operation"
     end
-    #resp.status
   end
 
 end
